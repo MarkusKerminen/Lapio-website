@@ -1,3 +1,15 @@
-p {
-  background-color: red;
+.leipä {
+  color: brown;
+}
+
+h1 {
+  color: blue;
+}
+
+ul {
+  color: pink;
+}
+
+#olenErilainen {
+  color: red;
 }
