@@ -1,15 +1,16 @@
-.leipä {
-  color: brown;
+body {
+  margin: 20px 20%;
+  max-width: 50%;
+  color: #222;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.4;
+  padding: 3px 3px;
 }
 
-h1 {
+a {
   color: blue;
 }
 
-ul {
-  color: pink;
-}
-
-#olenErilainen {
-  color: red;
+.headline {
+  color: black;
 }
